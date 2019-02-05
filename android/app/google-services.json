@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "255201532393",
+    "firebase_url": "https://dipp-smart.firebaseio.com",
+    "project_id": "dipp-smart",
+    "storage_bucket": "dipp-smart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255201532393:android:6ae695e299572ae2",
+        "android_client_info": {
+          "package_name": "com.bigidea.dippsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255201532393-jp38dd27afvmp5d9g7j2v9fj3rg61vjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOdhMYBad0W-gAuhOQm12EdHsLX03E9fs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
